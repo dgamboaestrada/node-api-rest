@@ -9,7 +9,7 @@
   "author": "Daniel Gamboa Estrada",
   "license": "MIT",
   "dependencies": {
-    "body-parser": "^1.20.6",
-    "express": "^4.22.2"
+    "body-parser": "^2.3.0",
+    "express": "^5.2.1"
   }
 }
